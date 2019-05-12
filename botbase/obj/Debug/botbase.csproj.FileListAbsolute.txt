@@ -1,0 +1,92 @@
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\obj\Debug\botbase.csprojAssemblyReference.cache
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\obj\Debug\botbase.csproj.CoreCompileInputs.cache
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\botbase.exe.config
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\botbase.exe
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\botbase.pdb
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\Discord.Net.Commands.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\Discord.Net.Core.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\Discord.Net.Rest.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\System.AppContext.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\System.Collections.Immutable.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\System.Console.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\System.Interactive.Async.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\System.IO.Compression.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\System.IO.FileSystem.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\System.Net.Http.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\System.Net.Sockets.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\Discord.Net.Commands.xml
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\Discord.Net.Core.xml
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\Discord.Net.Rest.xml
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\System.Collections.Immutable.xml
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\bin\Debug\System.Interactive.Async.xml
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\obj\Debug\botbase.csproj.CopyComplete
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\obj\Debug\botbase.exe
+C:\Users\DaddyDimitri\source\repos\botbase\botbase\obj\Debug\botbase.pdb
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\botbase.exe.config
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\botbase.exe
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\botbase.pdb
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\Discord.Net.Commands.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\Discord.Net.Core.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\Discord.Net.Rest.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\System.AppContext.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\System.Collections.Immutable.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\System.Console.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\System.Interactive.Async.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\System.IO.Compression.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\System.IO.FileSystem.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\System.Net.Http.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\System.Net.Sockets.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\Discord.Net.Commands.xml
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\Discord.Net.Core.xml
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\Discord.Net.Rest.xml
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\System.Collections.Immutable.xml
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\bin\Debug\System.Interactive.Async.xml
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\obj\Debug\botbase.csprojAssemblyReference.cache
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\obj\Debug\botbase.csproj.CoreCompileInputs.cache
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\obj\Debug\botbase.csproj.CopyComplete
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\obj\Debug\botbase.exe
+C:\Users\DaddyDimitri\source\repos\botbase - Copy\botbase\obj\Debug\botbase.pdb
