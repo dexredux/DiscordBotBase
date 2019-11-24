@@ -15,3 +15,8 @@ To use you need to do the following:
 now the server is verified and you are good.
 
 I know my code isn't the best, lot's of trash, and some security holes, also if a server does allowcommandsonserver with different names it will generate different passwords, they only need to verify 1, other will just be useless because no other server can use it.
+
+
+UPDATE: I am going to make a release version of this project. Essentially what this will be is the basic version of this bot, but a prompt that allows you to input your information when you first start up the bot. The information it will ask for is:
+1. Your user id, this is so the bot knows the id of its owner
+2. The bot token, this is so the bot can actually be used at all.
