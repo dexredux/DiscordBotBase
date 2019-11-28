@@ -1,0 +1,9 @@
+C:\Users\dexre\source\repos\DiscordBotSetup\bin\Release\DiscordBotSetup.exe.config
+C:\Users\dexre\source\repos\DiscordBotSetup\bin\Release\DiscordBotSetup.exe
+C:\Users\dexre\source\repos\DiscordBotSetup\bin\Release\DiscordBotSetup.pdb
+C:\Users\dexre\source\repos\DiscordBotSetup\obj\Release\DiscordBotSetup.csprojAssemblyReference.cache
+C:\Users\dexre\source\repos\DiscordBotSetup\obj\Release\DiscordBotSetup.Properties.Resources.resources
+C:\Users\dexre\source\repos\DiscordBotSetup\obj\Release\DiscordBotSetup.csproj.GenerateResource.cache
+C:\Users\dexre\source\repos\DiscordBotSetup\obj\Release\DiscordBotSetup.exe
+C:\Users\dexre\source\repos\DiscordBotSetup\obj\Release\DiscordBotSetup.pdb
+C:\Users\dexre\source\repos\DiscordBotSetup\obj\Release\DiscordBotSetup.SetupInfo.resources
